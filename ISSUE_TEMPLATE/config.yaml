@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📚 Documentation
+    url: https://bluerange.io/docs
+    about: Find documentation, changelogs and technical specs of BlueRange
+  - name: 🎫 Commercial Support
+    url: https://helpdesk.bluerange.io
+    about: For BlueRange customers to open a support ticket
+  - name: 🔒 Security Contact
+    url: mailto:security@bluerange.io
+    about: Report security vulnerabilities
