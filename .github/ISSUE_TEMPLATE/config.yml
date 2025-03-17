@@ -6,6 +6,3 @@ contact_links:
   - name: 🎫 Commercial Support
     url: https://helpdesk.bluerange.io
     about: For BlueRange customers to open a support ticket
-  - name: 🔒 Security Contact
-    url: mailto:security@bluerange.io
-    about: Report security vulnerabilities
