@@ -14,16 +14,16 @@ BlueRange is a WiredScore® certified solution for the wireless communication of
 - Energy Monitoring and Asset Tracking
 - Room Control and Live building & room data
 
-Find out more about BlueRange on [bluerange.io](https://bluerange.io/en)
+Find out more about BlueRange on **[bluerange.io](https://bluerange.io/en)**.
 
 ### Open Source
 
 We are proud to contribute to the open source community. Explore our pinned repositories below.
 
-Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to our projects.
+Please refer to our **[CONTRIBUTING.md](https://github.com/bluerange-io/.github/blob/08a6daa024c04aea2d74452bc043dfbca0af933d/CONTRIBUTING.md)** for more information on how to contribute to our projects.
 
-For support, please refer to our [SUPPORT.md](SUPPORT.md)
+For support, please refer to our **[SUPPORT.md](**[SUPPORT.md](https://github.com/bluerange-io/.github/blob/08a6daa024c04aea2d74452bc043dfbca0af933d/SUPPORT.md)**)**.
 
 ### Join us
 
-We cultivate community spirit, not individual combat. Want to join BlueRange as a developer? We are looking for new colleagues who want to shape the digital future with us. In small, agile teams with flat hierarchies and short decision-making paths. For more information and a list of open positions, visit [mway.io/en/career](https://mway.io/en/career)
+We cultivate community spirit, not individual combat. Want to join BlueRange as a developer? We are looking for new colleagues who want to shape the digital future with us. In small, agile teams with flat hierarchies and short decision-making paths. For more information and a list of open positions, visit **[mway.io/en/career](https://mway.io/en/career)**.

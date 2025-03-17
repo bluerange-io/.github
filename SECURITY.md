@@ -8,7 +8,7 @@ Please contact us if you discover a security-related issue such as
 
 ## Security Contact
 
-Please contact us at security@bluerange.io
+Please contact us at [security@bluerange.io](mailto:security@bluerange.io)
 
 We maintain a signed `security.txt` file: https://bluerange.io/.well-known/security.txt
 
