@@ -22,7 +22,7 @@ We are proud to contribute to the open source community. Explore our pinned repo
 
 Please refer to our **[CONTRIBUTING.md](https://github.com/bluerange-io/.github/blob/08a6daa024c04aea2d74452bc043dfbca0af933d/CONTRIBUTING.md)** for more information on how to contribute to our projects.
 
-For support, please refer to our **[SUPPORT.md](**[SUPPORT.md](https://github.com/bluerange-io/.github/blob/08a6daa024c04aea2d74452bc043dfbca0af933d/SUPPORT.md)**)**.
+For support, please refer to our **[SUPPORT.md](https://github.com/bluerange-io/.github/blob/08a6daa024c04aea2d74452bc043dfbca0af933d/SUPPORT.md)**.
 
 ### Join us
 
