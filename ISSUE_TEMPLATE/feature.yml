@@ -27,4 +27,4 @@ body:
     attributes:
       value: |
         Before submitting, please check if this feature hasn't been requested before.
-        For feature requests related to our main BlueRange product, please refer to the process outlined in our [SUPPORT.md](SUPPORT.md).
+        For feature requests related to our main BlueRange product, please refer to the process outlined in our [SUPPORT.md](https://github.com/bluerange-io/.github/blob/main/SUPPORT.md).
